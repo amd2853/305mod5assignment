@@ -34,4 +34,4 @@ To contribute to the project:
 
 ## License
 Distributed under the MIT License.
-*See LICENSE for more information regarding the MIT license.*
+*See [LICENSE](https://github.com/amd2853/305mod5assignment/blob/main/LICENSE) for more information regarding the MIT license.*
