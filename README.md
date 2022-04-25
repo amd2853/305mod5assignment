@@ -31,7 +31,13 @@ To contribute to the project:
 > git push 
 5. Open a pull request
 
+## Collaborating
+1. Clone repository
+2. Add contribution to files
+3. Commit your changes
+4. Push to the master branch
 
 ## License
 Distributed under the MIT License.
 *See [LICENSE](https://github.com/amd2853/305mod5assignment/blob/main/LICENSE) for more information regarding the MIT license.*
+
